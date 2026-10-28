@@ -1,0 +1,226 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+
+.ul1 {
+
+    display: flex;
+    gap: 30px;
+}
+
+header {
+    background-image: url(image\ 1.svg);
+    height: 100vh;
+    color: white;
+}
+
+nav {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.discover {
+    margin-top: 300px;
+    margin-left: 100px;
+}
+
+.kattadiv {
+    padding-bottom: 200px;
+    background-image: url(Rectangle\ 2.svg);
+    border: 2px solid skyblue;
+    display: flex;
+}
+
+
+
+.button1 {
+    margin-left: 600px;
+    width: 200px;
+    height: 35px;
+
+}
+
+.img1 {
+    background-color: aquamarine;
+    margin-top: 90px;
+    width: 1250px;
+}
+
+.box {
+    display: flex;
+    justify-content: space-around;
+}
+
+.kichikbox {
+    border: 2px solid skyblue;
+    width: 300px;
+    height: 200px;
+    background-color: blueviolet;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.divh1 {
+    display: flex;
+    gap: 300px;
+}
+
+.button {
+    display: flex;
+    margin-left: 150px;
+    gap: 900px;
+}
+
+.kichikbutton {
+    display: flex;
+    gap: 30px;
+    width: 50px;
+    height: 20px;
+    width: 150px;
+    height: 20px;
+}
+
+.btn {
+    background-color: gray;
+
+}
+
+.divimg {
+    display: flex;
+    gap: 50px;
+    margin-top: 40px;
+
+}
+
+.divimg :hover {
+    background-color: orange;
+
+}
+
+.divimg2 {
+    display: flex;
+    gap: 50px;
+    margin-top: 40px;
+
+}
+
+.divimg2 :hover {
+    background-color: orange;
+}
+
+.divpanda {
+    background-color: blueviolet;
+
+}
+
+.divsml {
+    display: flex;
+}
+
+
+.card-nexus {
+    background-color: blueviolet;
+    width: 330px;
+    height: 200px;
+}
+
+.steps {
+    display: flex;
+}
+
+.img-line {
+    width: 350px;
+    height: 100px;
+}
+
+.steps span {
+    color: aquamarine;
+    margin-top: 60px;
+}
+
+.card-main {
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+}
+.card1 :hover{
+    background-color: cornflowerblue;
+}
+.cardus {
+    position: relative;
+    margin-top: 70px;
+}
+.cardus  :hover{
+    background-color: darkslategray;
+}
+
+.cardinio {
+    position: relative;
+    margin-top: 200px;
+}
+.cardinio :hover{
+    background-color: darkslategray;
+}
+
+.cardo {
+    position: relative;
+    margin-top: 70px;
+}
+.cardo :hover{
+    background-color: darkslategray;
+}
+.carde {
+    position: relative;
+    margin-top: 140px;
+}
+.carde :hover{
+    background-color: darkslategray;
+}
+.int {
+    display: flex;
+    margin-left: 500px;
+}
+
+.int1 {
+    width: 250px;
+    height: 25px;
+    background-color: black;
+}
+
+.btn1 {
+    width: 150px;
+    height: 25px;
+    background-color: orange;
+}
+
+.divfooter {
+    display: flex;
+    gap: 70px;
+
+}
+
+footer {
+    background-color: slateblue;
+}
+
+li {
+    list-style: none;
+}
+.steps{
+    direction: none;
+}
+.imgpanda{
+    background-color: rgba(127, 250, 138, 1);
+    height: 350px;
+    margin-top: 500px;
+}
+.box :hover{
+    background-color: blue;
+}
+
+.rasmpnd{
+    margin-top: -550px;
+}
